@@ -1,0 +1,10 @@
+Button{
+  height: 10px;
+  width: 120px;
+  border-radius: 0;
+}
+.content{
+  height: 300px;
+  width: 500px;
+  border: solid 1px
+}
