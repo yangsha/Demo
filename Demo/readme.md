@@ -54,25 +54,5 @@
 `ModelRecord`:模型标签页的数据。
 
 `instanceStatus`：模型实例的状态，依次为等待训练、训练中、训练成功、训练失败、部署成功和部署失败。
-9.23 check in
-修改平台前端代码，将人工反馈模块单独划分为一个模块，实现了左边的导航部分，将实例作为导航项，
-但是根据实例获取相对应的反馈展示界面还没实现
-
-10.9 check in
-整体平台前端相关工作，做PPT；
-根绝myh师弟的反馈，修改前端存在的问题；
-
-
-10.30 check in
-1.阅读论文，继续整理医疗文本实体关系抽取的调研报告；
-2.平台：开会讨论平台页面的调整问题，给平台的人工服务模块加上具体的详细信息展示页面；
-
-10.31 check in 
-1.阅读论文《Automatic extraction and visualization of semantic relations between medical entities from medicine instructions
-》，介绍了面向医药说明书的实体关系抽取的基本方法；
-2.平台前端：根据昨天开会的讨论，写平台服务接口api详细界面的代码；
  
-
-
-
 
